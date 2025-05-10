@@ -1,12 +1,44 @@
-# React + Vite
+# 🍽️ Modern Restaurant Website Template
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A **stunning, high-performance ReactJS + Tailwind CSS template** for restaurants, cafés, food businesses, and online food ordering platforms. Built for **speed, responsiveness**, and a visually engaging user experience.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🎯 Features
+
+✅ **Fully Responsive Design** – Optimized for mobile, tablet, and desktop  
+✅ **Modern & Clean UI** – Sleek and professional user interface  
+✅ **Dark & Light Mode** – Seamless theme switching  
+✅ **Framer Motion Animations** – Smooth and interactive transitions  
+✅ **Fast Performance** – Powered by **Vite.js** for blazing-fast load times  
+✅ **SEO Optimized** – Clean HTML structure with meta tags  
+✅ **Easy Customization** – Well-organized and modular codebase  
+✅ **Hero & Services Section** – Highlight key offerings  
+✅ **Testimonial & App Store Sections** – Build credibility and promote your app  
+✅ **Animate on Scroll** – Engaging scroll-based animations  
+✅ **Deployed & Ready to Use** – Quickly launch your own site  
+
+---
+
+## 🛠 Tech Stack
+
+- ⚛️ **ReactJS** – Modern frontend framework  
+- 🎨 **Tailwind CSS** – Utility-first styling  
+- 🌀 **Framer Motion** – Advanced animations  
+- ⚡ **Vite.js** – Lightning-fast development environment  
+- ⭐ **React Icons** – Beautiful, scalable vector icons  
+- ✨ **AOS (Animate On Scroll)** – Scroll animations
+
+---
+
+## 🚀 Getting Started
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/your-username/restaurant-website.git
+cd restaurant-website
+npm install
+npm run dev
